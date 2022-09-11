@@ -15,5 +15,6 @@ public class Base {
 	    driver.manage().window().maximize();
 	    //implicitly wait
 	    driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
+		System.out.println("swapnilGaikwad");
 	}
 }
