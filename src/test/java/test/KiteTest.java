@@ -64,5 +64,4 @@ public void logoutApp() {
 public void closeBrowser() {
 	Reporter.log("close the app",true);
 }
-	System.out.println("this line is weitten from git hum to use pull");
 }
